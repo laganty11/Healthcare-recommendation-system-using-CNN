@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+torch
+transformers
+scikit-learn
+numpy
+Pillow
