@@ -72,3 +72,5 @@ if st.button("🔍 Predict"):
         st.markdown("#### 📸 CNN-based Prediction")
         predicted_class = predict_image("temp_xray.png")
         st.success(f"Predicted X-ray Class: {predicted_class}")
+
+Move app.py to root
